@@ -1,0 +1,36 @@
+# Ignore environment variables and credentials
+.env
+.env.*
+.env.local
+**/node_modules/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Editor-specific folders
+.vscode/
+.idea/
+
+# Vite specific
+**/.vite/
+**/.cache/
+
+# React specific
+**/build/
+**/dist/
+
+# Testing coverage reports
+coverage/
+*.lcov
+
+# Mac trash
+.Trashes
