@@ -5,7 +5,7 @@
 [![Socket.io](https://img.shields.io/badge/RealTime-Socket.IO-black?logo=socket.io)](https://socket.io/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-🎥 **Demo Video (in case live site is down):** [Watch Here](https://youtu.be/kQsRq8MC3UU)
+🎥 **Demo Video (in case live site is down):** 
 
 > ⚠️ *Note: Solution videos currently available for selected problems only:*
 > - Remove Duplicates from Sorted Array  
@@ -136,9 +136,7 @@ It’s built to help learners and professionals alike improve problem-solving sk
 ---
 
 ## 💻 Project Links  
-- **GitHub Repository:** [https://github.com/WR-Shashank/ByteBattle.0]  
-- **Demo Video:** [https://youtu.be/kQsRq8MC3UU](https://youtu.be/kQsRq8MC3UU)  
-- **Live Site:** [https://codewinz112.online/Login]  
+- **GitHub Repository:** [https://github.com/WR-Shashank/ByteBattle.0]   
 
 ---
 
